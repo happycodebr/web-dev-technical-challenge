@@ -22,7 +22,7 @@ Para isso, gostaríamos de ver a sua capacidade de planejameto, criando as taref
 
 📋  **O que a aplicação deve conter:**
 
-## User Stories
+**User Stories**
 - Eu como usuário devo me cadastrar usando meu endereço de e-mail
 - Eu como usuário, devo ter meu endereço de e-mail validado
 - Eu como usuário, devo  fazer login usando e-mail e senha
@@ -39,6 +39,7 @@ Você precisa enviar um link para o repositório do seu projeto contendo um arqu
 * Link para toda a documentação de projeto que você criar (você escolhe os documentos que julgar necessário)
 
 🚀 **Para aqueles que gostam de ir além...**
+
 Você pode criar filtros para exibição de apenas determinados tipos de Pokemón.
 O que mais sua criatividade permitir. Adoraremos ver a sua criatividade.
 
