@@ -1,35 +1,35 @@
 # Web Dev Technical Challenge
 
-## Sobre a Happy Code
+## Quem é a Happy
 
-A Happy Code é uma referência global no ensino de Programação, Maker e Robóca, presente em países como Brasil, Portugal, Espanha e Estados Unidos. Sua fundação ocorreu em 2015, a parr da necessidade do ensino de ciências da computação para crianças e adolescentes.
+Somos o maior Hub Educacional voltado ao desenvolvimento de habilidades e competências do século 21. 
 
-A metodologia de ensino é baseada no desenvolvimento de habilidades do século 21, trabalhando disciplinas fundamentais na formação de pessoas mais capacitadas para lidar com os novos desafios da era digital.
+Utilizamos a tecnologia e a inovação no aprendizado de crianças, jovens e adultos. Acreditamos em um mundo feliz e compartilhamos conhecimentos
+sobre educação socioemocional, educação tecnológica, educação financeira e comunicação.
 
-Os cursos programação, maker e robótica introduzem os alunos a um ambiente inovador. Por meio do aprendizado baseado em projetos, seu conteúdo esmula competências como raciocínio, criavidade, pensamento críco, resolução de problemas, comunicação e colaboração.
+**Nosso Propósito:** Formar pessoas capazes e com vontade de mudar o Mundo!
 
-**Buscamos pessoas que compartilhem do nosso propósito e do nosso sonho:**
-
-**Nosso propósito**
-* Formar pessoas capazes de mudar o mundo.
-
-**Nosso sonho**
-* Que nossos alunos sejam capazes de criar soluções de impacto para melhorar a vida de milhões de pessoas pelo mundo.
+**Nossos Valores:** Transformar Pessoas | Pensamento Ilimitado | Apaixonados por Resultado | Sempre Otimistas
 
 ## 🎮 Sobre o Desafio
-Criar uma aplicação web Full Stack, usanado NodeJS, Firebase, e React de uma loja Pokemon, usando a API Poke API: https://pokeapi.co/
+Criar uma aplicação web full stack de um Pokédex, usando NodeJS, React, Firebase e a PokeAPI: https://pokeapi.co/
+
 Para isso, gostaríamos de ver a sua capacidade de planejameto, criando as tarefas do projeto em uma ferramenta de gestão de projetos como Trello, Jira, MS Project, Asana, Notion, etc.
 
 📋  **O que a aplicação deve conter:**
 
-**User Stories**
-- Eu como usuário devo me cadastrar usando meu endereço de e-mail
-- Eu como usuário, devo ter meu endereço de e-mail validado
-- Eu como usuário, devo  fazer login usando e-mail e senha
-- Eu como usuário, devo ver uma lista com todos os pokemons disponíveis na API pokeAPI: [https://pokeapi.co/](https://pokeapi.co/)
-- Eu como usuário devo poder criar listas de Pokemóns, por exemplo, **Favoritos**
-- Eu como usuário, devo poder adicionar Pokémons às minhas listas
-- Eu como usuário devo ser capaz de excluir Pokemóns das minhas listas.
+**User Stories** 
+
+- Como usuário, quero:
+
+  - Me cadastrar usando meu endereço de e-mail
+  - Receber um email de confirmação de cadastro contendo minha senha de acesso
+  - Fazer login na aplicação usando e-mail e senha
+  - Ver uma lista de todos os pokemons disponíveis na pokeAPI: [https://pokeapi.co/](https://pokeapi.co/)
+  - Selecionar um pokemon para ver detalhes como nome, imagem e atributos (stats)
+  - Criar minhas listas de Pokemóns, por exemplo: "Favoritos"
+  - Adicionar Pokémons às minhas listas
+  - Excluir Pokemóns das minhas listas.
 
 🚚  **O que você precisa entregar:**
 
