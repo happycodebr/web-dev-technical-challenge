@@ -16,6 +16,8 @@ Criar uma aplicação web full stack de um Pokédex, usando NodeJS, React, Fireb
 
 Para isso, gostaríamos de ver a sua capacidade de planejameto, criando as tarefas do projeto em uma ferramenta de gestão de projetos como Trello, Jira, MS Project, Asana, Notion, etc.
 
+Mantenha contato e assim que possível nos indique uma estimativa de entrega e o acesso ao seu planejamento para irmos acompanhando.
+
 📋  **O que a aplicação deve conter:**
 
 **User Stories** 
