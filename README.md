@@ -12,7 +12,7 @@ sobre educação socioemocional, educação tecnológica, educação financeira 
 **Nossos Valores:** Transformar Pessoas | Pensamento Ilimitado | Apaixonados por Resultado | Sempre Otimistas
 
 ## 🎮 Sobre o Desafio
-Criar uma aplicação web full stack de um Pokédex, usando NodeJS, React, Firebase e a PokeAPI: https://pokeapi.co/
+Criar uma aplicação web full stack de um Pokédex, usando NodeJS, React, serviços do Firebase e a PokeAPI: https://pokeapi.co/
 
 Para isso, gostaríamos de ver a sua capacidade de planejameto, criando as tarefas do projeto em uma ferramenta de gestão de projetos como Trello, Jira, MS Project, Asana, Notion, etc.
 
